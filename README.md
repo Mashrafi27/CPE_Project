@@ -1,4 +1,4 @@
-# <p align = "center" font = 'bold'> Heart-Unhurt Project </p>
+# <p align = "center" font = 'bold' font = 'highlight'> Heart-Unhurt Project </p>
 
 <p align = "center"> —-------------------------------------------------------------------- </p>
 
