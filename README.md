@@ -1,6 +1,6 @@
-# <p align = "center" font = 'bold'> Heart-Unhurt Project <p>
+# <p align = "center" font = 'bold'> Heart-Unhurt Project </p>
 
-—--------------------------------------------------------------------
+<p align = "center"> —-------------------------------------------------------------------- </p>
 
 This software has a patient mode and a meditation mode. The patient mode tracks the ECG(electrocardiogram) of the user, and displays the ECG graph. The meditation instructs a 4-7-8 breathing pattern through vibration for a selected duration, and also provides a QR code for meditation music.
 
