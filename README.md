@@ -1,4 +1,4 @@
-# <p align = "center"><strong>Heart-Unhurt Project</strong></p>
+# <p align = "center"><code><strong>Heart-Unhurt Project</strong></code></p>
 
 <p align = "center"><strong> ---------------------------------------------------------------------</strong></p>
 
