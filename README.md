@@ -4,7 +4,7 @@
 
 This software has a patient mode and a meditation mode. The patient mode tracks the ECG(electrocardiogram) of the user, and displays the ECG graph. The meditation instructs a 4-7-8 breathing pattern through vibration for a selected duration, and also provides a QR code for meditation music.
 
-**`Requirements:`**
+<p align = "center"> **`Requirements:`** </p>
 
 A M5Stack Core 2 is required to run the program. For the patient mode, ECG electrodes are needed to measure the user’s ECG. The ECG data is then saved into a SD card, which is read by the M5Stack Core 2 to display the ECG graph. For the meditation mode, no additional hardware is required, but it is recommended to have a smartphone to play music through the QR code. 
 
